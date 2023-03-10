@@ -1,0 +1,1 @@
+//print binary of a given decimal number.

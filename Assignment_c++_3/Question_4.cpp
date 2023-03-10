@@ -1,0 +1,1 @@
+//print first n odd natural number in reverse order.

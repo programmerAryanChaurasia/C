@@ -1,0 +1,1 @@
+//print first n even natural number.

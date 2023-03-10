@@ -1,0 +1,1 @@
+//calculate factoral of given number

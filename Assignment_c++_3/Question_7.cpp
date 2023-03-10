@@ -1,0 +1,1 @@
+//print sum of first n natural number.

@@ -1,0 +1,1 @@
+//Print sum of digits in a given number.
